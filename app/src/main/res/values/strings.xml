@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ScanAndViewPdf</string>
+    <string name="last_scan_barcode">Last scan : \nbarcode</string>
+    <string name="scan_qrcode">Scan Barcode</string>
+</resources>
